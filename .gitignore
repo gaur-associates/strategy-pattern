@@ -1,0 +1,5 @@
+.vscode/*
+
+build-car/bin/*
+build-car/obj/*
+
